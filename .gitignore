@@ -1,0 +1,11 @@
+# Ignorar configuraciones locales de Android Studio
+.idea/
+*.iml
+
+# Ignorar caches de Gradle
+.gradle/
+build/
+app/build/
+
+# Archivos locales de entorno
+local.properties
