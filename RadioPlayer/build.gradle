@@ -1,0 +1,13 @@
+// Top-level build file (simplified for opening in Android Studio)
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}

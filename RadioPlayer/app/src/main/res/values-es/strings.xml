@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Reproductor de Radio</string>
+    <string name="hint_name">Nombre de la emisora</string>
+    <string name="hint_url">URL de la emisora</string>
+    <string name="add_radio">Agregar emisora</string>
+    <string name="playing">Reproduciendo: %1$s</string>
+    <string name="stop">Detener</string>
+    <string name="play">Reproducir</string>
+    <string name="pause">Pausa</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="settings">Ajustes</string>
+    <string name="language">Idioma</string>
+    <string name="english">English</string>
+    <string name="spanish">Español</string>
+</resources>
